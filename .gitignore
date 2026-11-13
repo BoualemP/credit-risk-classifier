@@ -6,3 +6,6 @@ __pycache__/
 
 # Course data: not redistributed
 data/
+
+# Personal working copies
+*_boubou*
